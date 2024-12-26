@@ -1,0 +1,7 @@
+setuptools
+pandas
+numpy
+python-dotenv
+jupyter
+kaggle
+kagglehub
