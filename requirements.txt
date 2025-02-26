@@ -1,7 +1,9 @@
-setuptools
+setuptools~=75.6.0
 pandas
 numpy
 python-dotenv
 jupyter
 kaggle
 kagglehub
+matplotlib~=3.10.0
+scikit-learn~=1.6.1
